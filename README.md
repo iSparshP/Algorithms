@@ -58,11 +58,8 @@ This list is not exhaustive, and I'll continue to add more algorithms as I learn
 
 I've implemented these algorithms in various programming languages, including:
 
-- Python
-- Java
 - C++
-- JavaScript
-- ...
+
 
 Feel free to explore the code in your preferred language.
 
