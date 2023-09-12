@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+using namespace std;
+struct prob
+{
+    int s,d,t;
+}
+bool comp(prob a, prob b)
+{
+    return 1ll*a.d*b.t > 1ll*a.t*b.d;
+}
+int main()
+{
+    int n;cin>>n;
+    prob p[n];
+    for(int i=0;i<n;i++)
+    {
+        cin>>p[i].s>>p[i].d>>p[i].t;
+    }
+    sort(p,p+n,comp);
+    long long optimal_score=0;
+    long long timetaken=0;
+    for(int i=0;i<n;i++)
+    {
+        timetaken += p[i].t;
+        optimal_score += p[i].s- p[i].d*timetaken;
+    }
+    cout<<optimal_score<<endl;
+}
