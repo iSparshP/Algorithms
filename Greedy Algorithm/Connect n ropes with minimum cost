@@ -1,0 +1,46 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+
+int min_cost_to_join(vector<ll> &rope)
+{
+    ll n=rope.size();
+    priority_queue<int,vector<int>,greater<int>> q;
+    for(ll i =0;i<n;i++)
+    {
+        q.push(rope[i]);
+    }
+    ll cost=0;
+    while(!q.empty())
+    {
+        ll x=q.top();
+        q.pop();
+        if(q.empty())
+        {
+            break;
+        }
+        ll y=q.top();
+        q.pop();
+        cost += (x+y);
+        q.push(x+y);
+    }
+    return cost;
+}
+
+void solve()
+{
+    ll n;
+    cin>>n;
+    vector<ll> rope(n);
+    for(int i=0;i<n;i++)
+    {
+        cin>>rope[i];
+    }
+    int ans= min_cost_to_join(rope);
+    cout<<ans<<endl;
+}
+
+int main()
+{
+    solve();
+}
