@@ -1,0 +1,47 @@
+#include<bits/stdc++.h>
+typedef long long lli;
+using namespace std;
+lli maximum_sum(vector<lli>&arr,lli k)
+{
+    lli n=arr.size(),ans=0;
+    priority_queue<lli, vector<lli>, greater<lli>>q;
+    for(lli i=0;i<n;i++)
+    {
+    q.push(arr[i]);
+    }
+    for(lli i=0; i<k; i++)
+    {
+        lli p =q.top();
+        q.pop();
+        if(p==0)
+        {
+            break;
+        }
+        p = -p;
+        q.push(p);
+    }
+    while(!q.empty())
+    {
+        ans+=q.top();
+        q.pop();
+    }
+    return ans;
+}
+
+void solve()
+{
+    lli n, k;
+    cin>>n>>k;
+    vector<lli> arr(n);
+    for(lli i=0;i<n; i++)
+    {
+        cin>>arr[i];
+        lli ans = maximum_sum(arr, k);
+        cout<<ans<<endl;
+    }
+}
+
+int main()
+{
+    solve();
+}
