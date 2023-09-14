@@ -1,0 +1,51 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+string remove_k_digits(string num, int k)
+{
+    int n=num.length();
+    string ans;
+    stack<char> res;
+    int i;
+    for(int i=0;i<n;i++)
+    {
+        while(!res.empty() and res.top()>num[i] and k>0)
+        {
+            k--;
+            res.pop();
+        }
+        res.push(num[i]);
+    }
+    while(!res.empty())
+    {
+        ans.push_back(res.top());
+        res.pop();
+    }
+    reverse(ans.begin(),ans.end());
+    while(k--)
+    {
+        ans.pop_back();
+    }
+    i=0;
+    while(i<n and ans[i]=='0')
+    {
+        i++;
+    }
+    ans = ans.substr(i);
+    if(ans.empty())
+    {
+        return "0";
+    }
+    return ans;
+}
+
+int main()
+{
+    string num;
+    int k;
+    cin>>num;
+    cin>>k;
+    string answer= remove_k_digits(num,k);
+    cout<<answer;
+    return 0;
+}
