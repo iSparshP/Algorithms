@@ -66,3 +66,21 @@ To clone the repository, use the following command:
 
 ```bash
 git clone [https://github.com/iSparshP/Algorithms.git]
+
+````
+
+##Contributing
+Contributions are welcome! If you'd like to contribute to this repository, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure they work as expected.
+4. Commit your changes and create a clear, concise pull request with a descriptive title.
+5. Explain the purpose and details of your changes in the pull request description.
+6. I'll review your contributions and merge them if they align with the repository's goals.
+
+##License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Happy learning and coding!
+
