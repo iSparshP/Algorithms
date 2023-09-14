@@ -15,7 +15,7 @@ Welcome to my Algorithm Learning Repository! Here, I'm documenting and storing v
 
 ## Introduction
 
-In this repository, you will find a collection of algorithms covering a wide range of topics, including data structures, sorting, searching, and more. Each algorithm is implemented in one or more programming languages for educational purposes. You can use this repository to:
+In this repository, you will find a collection of algorithms covering a wide range of topics, including stl data structures, sorting, searching, and more. Each algorithm is implemented in one or more programming languages for educational purposes. You can use this repository to:
 
 - Learn and understand different algorithms.
 - Explore algorithm implementations in various programming languages.
@@ -26,19 +26,14 @@ In this repository, you will find a collection of algorithms covering a wide ran
 Here's a list of some of the algorithms I've covered so far:
 
 - **Sorting Algorithms**:
-  - Bubble Sort
-  - Selection Sort
-  - Insertion Sort
-  - Quick Sort
-  - Merge Sort
-  - ...
+  - sort()
+  - sort comparator function
 
 - **Data Structures**:
-  - Linked Lists
-  - Binary Trees
-  - Hash Tables
-  - Stacks and Queues
-  - ...
+  - stack
+  - queue
+  - priority queue
+  - array
 
 - **Searching Algorithms**:
   - Binary Search
@@ -49,8 +44,8 @@ Here's a list of some of the algorithms I've covered so far:
 - **Dynamic Programming**:
   - Fibonacci Sequence
   - Knapsack Problem
-  - Longest Common Subsequence
-  - ...
+  - knights problem
+  - sudoku
 
 This list is not exhaustive, and I'll continue to add more algorithms as I learn and implement them.
 
