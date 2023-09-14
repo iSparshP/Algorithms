@@ -69,7 +69,7 @@ git clone [https://github.com/iSparshP/Algorithms.git]
 
 ````
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to this repository, follow these steps:
 
 1. Fork the repository.
@@ -79,7 +79,7 @@ Contributions are welcome! If you'd like to contribute to this repository, follo
 5. Explain the purpose and details of your changes in the pull request description.
 6. I'll review your contributions and merge them if they align with the repository's goals.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Happy learning and coding!
