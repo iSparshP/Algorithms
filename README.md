@@ -103,8 +103,21 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/iSparshP/Algorithms/tree/master/0374-guess-number-higher-or-lower) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/iSparshP/Algorithms/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Two Pointers
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Sorting
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
