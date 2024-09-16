@@ -102,6 +102,7 @@ Happy learning and coding!
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/iSparshP/Algorithms/tree/master/0374-guess-number-higher-or-lower) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
@@ -111,6 +112,7 @@ Happy learning and coding!
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
