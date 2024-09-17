@@ -113,6 +113,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
@@ -121,5 +122,18 @@ Happy learning and coding!
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
