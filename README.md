@@ -161,4 +161,8 @@ Happy learning and coding!
 |  |
 | ------- |
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/iSparshP/Algorithms/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
