@@ -114,6 +114,7 @@ Happy learning and coding!
 | ------- |
 | [0001-two-sum](https://github.com/iSparshP/Algorithms/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -126,6 +127,7 @@ Happy learning and coding!
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
@@ -156,6 +158,7 @@ Happy learning and coding!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
 ## Simulation
 |  |
@@ -166,4 +169,8 @@ Happy learning and coding!
 | ------- |
 | [0175-combine-two-tables](https://github.com/iSparshP/Algorithms/tree/master/0175-combine-two-tables) |
 | [1161-project-employees-i](https://github.com/iSparshP/Algorithms/tree/master/1161-project-employees-i) |
+## String
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
