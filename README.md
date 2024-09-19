@@ -90,6 +90,7 @@ Happy learning and coding!
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/iSparshP/Algorithms/tree/master/0009-palindrome-number) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
