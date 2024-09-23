@@ -91,6 +91,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/iSparshP/Algorithms/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@ Happy learning and coding!
 | [0001-two-sum](https://github.com/iSparshP/Algorithms/tree/master/0001-two-sum) |
 | [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -177,4 +179,12 @@ Happy learning and coding!
 | ------- |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
