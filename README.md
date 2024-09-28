@@ -118,6 +118,7 @@ Happy learning and coding!
 | ------- |
 | [0001-two-sum](https://github.com/iSparshP/Algorithms/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
@@ -202,4 +203,8 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
