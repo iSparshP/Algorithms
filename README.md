@@ -93,6 +93,7 @@ Happy learning and coding!
 | [0002-add-two-numbers](https://github.com/iSparshP/Algorithms/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/iSparshP/Algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/iSparshP/Algorithms/tree/master/0371-sum-of-two-integers) |
@@ -100,10 +101,12 @@ Happy learning and coding!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 ## Binary Search
 |  |
