@@ -104,6 +104,7 @@ Happy learning and coding!
 | [0070-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/iSparshP/Algorithms/tree/master/0198-house-robber) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/iSparshP/Algorithms/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
@@ -204,6 +205,7 @@ Happy learning and coding!
 | [0003-longest-substring-without-repeating-characters](https://github.com/iSparshP/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
+| [1250-longest-common-subsequence](https://github.com/iSparshP/Algorithms/tree/master/1250-longest-common-subsequence) |
 ## Enumeration
 |  |
 | ------- |
