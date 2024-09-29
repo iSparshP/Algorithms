@@ -102,6 +102,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/iSparshP/Algorithms/tree/master/0198-house-robber) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -133,6 +134,7 @@ Happy learning and coding!
 | [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/iSparshP/Algorithms/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
