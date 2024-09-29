@@ -90,6 +90,7 @@ Happy learning and coding!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iSparshP/Algorithms/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/iSparshP/Algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
@@ -228,9 +229,11 @@ Happy learning and coding!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iSparshP/Algorithms/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iSparshP/Algorithms/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
