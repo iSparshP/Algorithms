@@ -225,4 +225,12 @@ Happy learning and coding!
 | ------- |
 | [0046-permutations](https://github.com/iSparshP/Algorithms/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/iSparshP/Algorithms/tree/master/0077-combinations) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
