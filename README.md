@@ -118,6 +118,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iSparshP/Algorithms/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/iSparshP/Algorithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
@@ -219,4 +220,8 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/iSparshP/Algorithms/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
