@@ -121,6 +121,7 @@ Happy learning and coding!
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
@@ -137,6 +138,7 @@ Happy learning and coding!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
@@ -145,6 +147,7 @@ Happy learning and coding!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/iSparshP/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -163,6 +166,7 @@ Happy learning and coding!
 | ------- |
 | [0001-two-sum](https://github.com/iSparshP/Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iSparshP/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
 ## Design
@@ -211,4 +215,8 @@ Happy learning and coding!
 | [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/iSparshP/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/iSparshP/Algorithms/tree/master/0371-sum-of-two-integers) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
