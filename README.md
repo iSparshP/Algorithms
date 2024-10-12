@@ -213,6 +213,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/iSparshP/Algorithms/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/iSparshP/Algorithms/tree/master/0197-rising-temperature) |
 | [1161-project-employees-i](https://github.com/iSparshP/Algorithms/tree/master/1161-project-employees-i) |
 ## String
 |  |
