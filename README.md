@@ -97,6 +97,7 @@ Happy learning and coding!
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/iSparshP/Algorithms/tree/master/0371-sum-of-two-integers) |
+| [1086-divisor-game](https://github.com/iSparshP/Algorithms/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -109,6 +110,7 @@ Happy learning and coding!
 | [0300-longest-increasing-subsequence](https://github.com/iSparshP/Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0747-min-cost-climbing-stairs) |
+| [1086-divisor-game](https://github.com/iSparshP/Algorithms/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iSparshP/Algorithms/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/iSparshP/Algorithms/tree/master/1250-longest-common-subsequence) |
@@ -269,4 +271,12 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/iSparshP/Algorithms/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/iSparshP/Algorithms/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
