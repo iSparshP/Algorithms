@@ -94,6 +94,7 @@ Happy learning and coding!
 | [0009-palindrome-number](https://github.com/iSparshP/Algorithms/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/iSparshP/Algorithms/tree/master/0371-sum-of-two-integers) |
@@ -105,6 +106,7 @@ Happy learning and coding!
 | [0053-maximum-subarray](https://github.com/iSparshP/Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iSparshP/Algorithms/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iSparshP/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/iSparshP/Algorithms/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/iSparshP/Algorithms/tree/master/0300-longest-increasing-subsequence) |
@@ -279,4 +281,16 @@ Happy learning and coding!
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/iSparshP/Algorithms/tree/master/1086-divisor-game) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
