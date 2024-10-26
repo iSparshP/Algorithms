@@ -226,6 +226,7 @@ Happy learning and coding!
 | [1153-product-sales-analysis-i](https://github.com/iSparshP/Algorithms/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/iSparshP/Algorithms/tree/master/1161-project-employees-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/iSparshP/Algorithms/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/iSparshP/Algorithms/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 ## String
 |  |
 | ------- |
