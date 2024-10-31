@@ -5,6 +5,7 @@ public:
         vector<bool> keys(n, false);
         keys[0]=true;
         queue<int>q;
+        for(auto &room:rooms[0])q.push(room);
         while(!q.empty()){
             int key=q.front();
             q.pop();
