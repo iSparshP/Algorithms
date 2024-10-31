@@ -280,6 +280,7 @@ Happy learning and coding!
 | ------- |
 | [0279-perfect-squares](https://github.com/iSparshP/Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
+| [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
 ## Brainteaser
 |  |
 | ------- |
@@ -300,4 +301,12 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
