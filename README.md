@@ -146,6 +146,7 @@ Happy learning and coding!
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/iSparshP/Algorithms/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/iSparshP/Algorithms/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/iSparshP/Algorithms/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iSparshP/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
@@ -171,6 +172,7 @@ Happy learning and coding!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/iSparshP/Algorithms/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
