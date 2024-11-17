@@ -211,12 +211,14 @@ Happy learning and coding!
 | [0001-two-sum](https://github.com/iSparshP/Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iSparshP/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
 ## Greedy
 |  |
@@ -245,6 +247,7 @@ Happy learning and coding!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iSparshP/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/iSparshP/Algorithms/tree/master/1250-longest-common-subsequence) |
 | [2580-circular-sentence](https://github.com/iSparshP/Algorithms/tree/master/2580-circular-sentence) |
@@ -331,4 +334,8 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
