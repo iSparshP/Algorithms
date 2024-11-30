@@ -304,6 +304,7 @@ Happy learning and coding!
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Brainteaser
 |  |
 | ------- |
@@ -331,6 +332,7 @@ Happy learning and coding!
 | [0210-course-schedule-ii](https://github.com/iSparshP/Algorithms/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Graph
 |  |
 | ------- |
@@ -339,6 +341,7 @@ Happy learning and coding!
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/iSparshP/Algorithms/tree/master/1039-find-the-town-judge) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
 | ------- |
