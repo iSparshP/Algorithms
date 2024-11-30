@@ -161,6 +161,7 @@ Happy learning and coding!
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/iSparshP/Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/iSparshP/Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iSparshP/Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0747-min-cost-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0747-min-cost-climbing-stairs) |
@@ -251,6 +252,7 @@ Happy learning and coding!
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
+| [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [1250-longest-common-subsequence](https://github.com/iSparshP/Algorithms/tree/master/1250-longest-common-subsequence) |
 | [2580-circular-sentence](https://github.com/iSparshP/Algorithms/tree/master/2580-circular-sentence) |
 ## Enumeration
@@ -302,6 +304,7 @@ Happy learning and coding!
 | [0210-course-schedule-ii](https://github.com/iSparshP/Algorithms/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/iSparshP/Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -330,6 +333,7 @@ Happy learning and coding!
 | ------- |
 | [0207-course-schedule](https://github.com/iSparshP/Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iSparshP/Algorithms/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -338,6 +342,7 @@ Happy learning and coding!
 | ------- |
 | [0207-course-schedule](https://github.com/iSparshP/Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iSparshP/Algorithms/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/iSparshP/Algorithms/tree/master/1039-find-the-town-judge) |
@@ -345,6 +350,7 @@ Happy learning and coding!
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
@@ -355,4 +361,8 @@ Happy learning and coding!
 | ------- |
 | [0207-course-schedule](https://github.com/iSparshP/Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iSparshP/Algorithms/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
