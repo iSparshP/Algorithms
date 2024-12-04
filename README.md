@@ -183,6 +183,7 @@ Happy learning and coding!
 | [2232-adding-spaces-to-a-string](https://github.com/iSparshP/Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/iSparshP/Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Sorting
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Happy learning and coding!
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iSparshP/Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/iSparshP/Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2580-circular-sentence](https://github.com/iSparshP/Algorithms/tree/master/2580-circular-sentence) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/iSparshP/Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Enumeration
 |  |
 | ------- |
