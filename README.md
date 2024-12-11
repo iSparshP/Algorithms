@@ -137,6 +137,7 @@ Happy learning and coding!
 | [1468-check-if-n-and-its-double-exist](https://github.com/iSparshP/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/iSparshP/Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/iSparshP/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iSparshP/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/iSparshP/Algorithms/tree/master/3427-special-array-ii) |
 ## Interactive
@@ -180,6 +181,7 @@ Happy learning and coding!
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/iSparshP/Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/iSparshP/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3427-special-array-ii](https://github.com/iSparshP/Algorithms/tree/master/3427-special-array-ii) |
 ## Two Pointers
@@ -208,6 +210,7 @@ Happy learning and coding!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/iSparshP/Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/iSparshP/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,6 +302,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iSparshP/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/iSparshP/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iSparshP/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Matrix
 |  |
