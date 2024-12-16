@@ -103,6 +103,7 @@ Happy learning and coding!
 | [1146-greatest-common-divisor-of-strings](https://github.com/iSparshP/Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iSparshP/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Happy learning and coding!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/iSparshP/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3427-special-array-ii](https://github.com/iSparshP/Algorithms/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iSparshP/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +229,7 @@ Happy learning and coding!
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/iSparshP/Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iSparshP/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -266,6 +269,7 @@ Happy learning and coding!
 | [2232-adding-spaces-to-a-string](https://github.com/iSparshP/Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/iSparshP/Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iSparshP/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Database
 |  |
 | ------- |
