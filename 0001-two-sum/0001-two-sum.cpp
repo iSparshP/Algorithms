@@ -4,10 +4,9 @@ public:
         int n=nums.size();
         unordered_map<int,int>mp;
         for(int i=0;i<n;i++){
-            int compliment=target-nums[i];
-            if(mp.find(compliment)!=mp.end()){
-                //the map is having the compliment value
-                return vector<int>{mp[compliment],i};
+            int com=target-nums[i];
+            if(mp.find(com)!=mp.end()){
+                return vector<int>{mp[com],i};
             }
             mp[nums[i]]=i;
         }
