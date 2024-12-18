@@ -167,6 +167,7 @@ Happy learning and coding!
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iSparshP/Algorithms/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/iSparshP/Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/iSparshP/Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
@@ -426,6 +427,7 @@ Happy learning and coding!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/iSparshP/Algorithms/tree/master/0238-product-of-array-except-self) |
 | [3427-special-array-ii](https://github.com/iSparshP/Algorithms/tree/master/3427-special-array-ii) |
 ## Stack
 |  |
