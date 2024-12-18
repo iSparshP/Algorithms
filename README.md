@@ -150,6 +150,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iSparshP/Algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/iSparshP/Algorithms/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/iSparshP/Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iSparshP/Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/iSparshP/Algorithms/tree/master/0046-permutations) |
@@ -195,6 +196,7 @@ Happy learning and coding!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iSparshP/Algorithms/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iSparshP/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iSparshP/Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -265,6 +267,7 @@ Happy learning and coding!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iSparshP/Algorithms/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/iSparshP/Algorithms/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/iSparshP/Algorithms/tree/master/0435-non-overlapping-intervals) |
