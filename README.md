@@ -193,6 +193,7 @@ Happy learning and coding!
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/iSparshP/Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/iSparshP/Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/iSparshP/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3427-special-array-ii](https://github.com/iSparshP/Algorithms/tree/master/3427-special-array-ii) |
@@ -244,6 +245,7 @@ Happy learning and coding!
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/iSparshP/Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iSparshP/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
@@ -332,6 +334,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iSparshP/Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/iSparshP/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iSparshP/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Matrix
@@ -457,4 +460,16 @@ Happy learning and coding!
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/iSparshP/Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
