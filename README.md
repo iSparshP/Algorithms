@@ -183,6 +183,7 @@ Happy learning and coding!
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [1039-find-the-town-judge](https://github.com/iSparshP/Algorithms/tree/master/1039-find-the-town-judge) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iSparshP/Algorithms/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iSparshP/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/iSparshP/Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/iSparshP/Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -261,6 +262,7 @@ Happy learning and coding!
 | [0217-contains-duplicate](https://github.com/iSparshP/Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
 | [1039-find-the-town-judge](https://github.com/iSparshP/Algorithms/tree/master/1039-find-the-town-judge) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iSparshP/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
