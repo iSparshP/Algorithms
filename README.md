@@ -275,6 +275,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0969-number-of-recent-calls](https://github.com/iSparshP/Algorithms/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
 ## Greedy
 |  |
@@ -470,6 +471,7 @@ Happy learning and coding!
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/iSparshP/Algorithms/tree/master/0969-number-of-recent-calls) |
 | [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
 ## Ordered Set
 |  |
@@ -479,4 +481,8 @@ Happy learning and coding!
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/iSparshP/Algorithms/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
