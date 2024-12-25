@@ -382,6 +382,7 @@ Happy learning and coding!
 | [0279-perfect-squares](https://github.com/iSparshP/Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -399,6 +400,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
@@ -409,6 +411,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -417,6 +420,7 @@ Happy learning and coding!
 | [0207-course-schedule](https://github.com/iSparshP/Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iSparshP/Algorithms/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
