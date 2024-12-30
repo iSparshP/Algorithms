@@ -123,6 +123,7 @@ Happy learning and coding!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iSparshP/Algorithms/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/iSparshP/Algorithms/tree/master/1250-longest-common-subsequence) |
+| [2562-count-ways-to-build-good-strings](https://github.com/iSparshP/Algorithms/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
 |  |
 | ------- |
