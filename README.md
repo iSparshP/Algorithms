@@ -119,6 +119,7 @@ Happy learning and coding!
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/iSparshP/Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0747-min-cost-climbing-stairs) |
+| [1025-minimum-cost-for-tickets](https://github.com/iSparshP/Algorithms/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/iSparshP/Algorithms/tree/master/1086-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iSparshP/Algorithms/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
@@ -182,6 +183,7 @@ Happy learning and coding!
 | [0605-can-place-flowers](https://github.com/iSparshP/Algorithms/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [1025-minimum-cost-for-tickets](https://github.com/iSparshP/Algorithms/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/iSparshP/Algorithms/tree/master/1039-find-the-town-judge) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iSparshP/Algorithms/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1319-unique-number-of-occurrences](https://github.com/iSparshP/Algorithms/tree/master/1319-unique-number-of-occurrences) |
