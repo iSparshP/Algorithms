@@ -118,6 +118,7 @@ Happy learning and coding!
 | [0300-longest-increasing-subsequence](https://github.com/iSparshP/Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/iSparshP/Algorithms/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/iSparshP/Algorithms/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/iSparshP/Algorithms/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/iSparshP/Algorithms/tree/master/1086-divisor-game) |
@@ -181,6 +182,7 @@ Happy learning and coding!
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/iSparshP/Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iSparshP/Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0494-target-sum](https://github.com/iSparshP/Algorithms/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/iSparshP/Algorithms/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
@@ -375,6 +377,7 @@ Happy learning and coding!
 | ------- |
 | [0046-permutations](https://github.com/iSparshP/Algorithms/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/iSparshP/Algorithms/tree/master/0077-combinations) |
+| [0494-target-sum](https://github.com/iSparshP/Algorithms/tree/master/0494-target-sum) |
 ## Linked List
 |  |
 | ------- |
