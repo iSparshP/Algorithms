@@ -192,6 +192,7 @@ Happy learning and coding!
 | [1319-unique-number-of-occurrences](https://github.com/iSparshP/Algorithms/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iSparshP/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/iSparshP/Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/iSparshP/Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iSparshP/Algorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -335,6 +336,7 @@ Happy learning and coding!
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iSparshP/Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/iSparshP/Algorithms/tree/master/1250-longest-common-subsequence) |
+| [1524-string-matching-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iSparshP/Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iSparshP/Algorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1894-merge-strings-alternately](https://github.com/iSparshP/Algorithms/tree/master/1894-merge-strings-alternately) |
@@ -480,6 +482,7 @@ Happy learning and coding!
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iSparshP/Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Prefix Sum
 |  |
