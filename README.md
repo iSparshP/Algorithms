@@ -285,6 +285,7 @@ Happy learning and coding!
 | [1319-unique-number-of-occurrences](https://github.com/iSparshP/Algorithms/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iSparshP/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/iSparshP/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iSparshP/Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
@@ -308,6 +309,7 @@ Happy learning and coding!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iSparshP/Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/iSparshP/Algorithms/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [1502-construct-k-palindrome-strings](https://github.com/iSparshP/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/iSparshP/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
@@ -341,6 +343,7 @@ Happy learning and coding!
 | [0952-word-subsets](https://github.com/iSparshP/Algorithms/tree/master/0952-word-subsets) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iSparshP/Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/iSparshP/Algorithms/tree/master/1250-longest-common-subsequence) |
+| [1502-construct-k-palindrome-strings](https://github.com/iSparshP/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/iSparshP/Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iSparshP/Algorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -389,6 +392,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
+| [1502-construct-k-palindrome-strings](https://github.com/iSparshP/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iSparshP/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
