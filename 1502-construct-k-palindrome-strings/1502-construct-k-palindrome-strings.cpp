@@ -10,7 +10,7 @@ public:
         }
         int count=0;
         for(auto& it:embed){
-            if(it&1){
+            if(it%2!=0){
                 count++;
             }
         }
