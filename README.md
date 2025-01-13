@@ -293,6 +293,7 @@ Happy learning and coding!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/iSparshP/Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iSparshP/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/iSparshP/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Design
 |  |
 | ------- |
@@ -363,6 +364,7 @@ Happy learning and coding!
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/iSparshP/Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iSparshP/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/iSparshP/Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/iSparshP/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -397,6 +399,7 @@ Happy learning and coding!
 | [1502-construct-k-palindrome-strings](https://github.com/iSparshP/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iSparshP/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/iSparshP/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
 |  |
 | ------- |
