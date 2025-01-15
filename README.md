@@ -316,6 +316,7 @@ Happy learning and coding!
 | [1917-maximum-average-pass-ratio](https://github.com/iSparshP/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/iSparshP/Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
+| [2509-minimize-xor](https://github.com/iSparshP/Algorithms/tree/master/2509-minimize-xor) |
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/iSparshP/Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Simulation
@@ -394,6 +395,7 @@ Happy learning and coding!
 | [0191-number-of-1-bits](https://github.com/iSparshP/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/iSparshP/Algorithms/tree/master/0371-sum-of-two-integers) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iSparshP/Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/iSparshP/Algorithms/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
