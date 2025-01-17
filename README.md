@@ -211,6 +211,7 @@ Happy learning and coding!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/iSparshP/Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/iSparshP/Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/iSparshP/Algorithms/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/iSparshP/Algorithms/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
@@ -397,6 +398,7 @@ Happy learning and coding!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iSparshP/Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/iSparshP/Algorithms/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/iSparshP/Algorithms/tree/master/2792-neighboring-bitwise-xor) |
 ## Counting
 |  |
 | ------- |
