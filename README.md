@@ -180,6 +180,7 @@ Happy learning and coding!
 | [0300-longest-increasing-subsequence](https://github.com/iSparshP/Algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/iSparshP/Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/iSparshP/Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iSparshP/Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/iSparshP/Algorithms/tree/master/0494-target-sum) |
@@ -261,6 +262,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/iSparshP/Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/iSparshP/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
@@ -390,6 +392,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
+| [0407-trapping-rain-water-ii](https://github.com/iSparshP/Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -434,6 +437,7 @@ Happy learning and coding!
 | [0279-perfect-squares](https://github.com/iSparshP/Algorithms/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/iSparshP/Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
