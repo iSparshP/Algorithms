@@ -199,6 +199,7 @@ Happy learning and coding!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/iSparshP/Algorithms/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/iSparshP/Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/iSparshP/Algorithms/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1876-map-of-highest-peak](https://github.com/iSparshP/Algorithms/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/iSparshP/Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/iSparshP/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2145-grid-game](https://github.com/iSparshP/Algorithms/tree/master/2145-grid-game) |
@@ -395,6 +396,7 @@ Happy learning and coding!
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/iSparshP/Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/iSparshP/Algorithms/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/iSparshP/Algorithms/tree/master/2145-grid-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
@@ -445,6 +447,7 @@ Happy learning and coding!
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1876-map-of-highest-peak](https://github.com/iSparshP/Algorithms/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Brainteaser
