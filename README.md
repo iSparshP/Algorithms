@@ -214,6 +214,7 @@ Happy learning and coding!
 | [2691-count-vowel-strings-in-ranges](https://github.com/iSparshP/Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/iSparshP/Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/iSparshP/Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/iSparshP/Algorithms/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/iSparshP/Algorithms/tree/master/2868-continuous-subarrays) |
@@ -398,6 +399,7 @@ Happy learning and coding!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/iSparshP/Algorithms/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/iSparshP/Algorithms/tree/master/2145-grid-game) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -451,6 +453,7 @@ Happy learning and coding!
 | [1876-map-of-highest-peak](https://github.com/iSparshP/Algorithms/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Brainteaser
 |  |
 | ------- |
@@ -490,6 +493,7 @@ Happy learning and coding!
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iSparshP/Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -508,6 +512,7 @@ Happy learning and coding!
 | ------- |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
 |  |
 | ------- |
