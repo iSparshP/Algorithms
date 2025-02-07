@@ -112,6 +112,7 @@ Happy learning and coding!
 | [0055-jump-game](https://github.com/iSparshP/Algorithms/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/iSparshP/Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iSparshP/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/iSparshP/Algorithms/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/iSparshP/Algorithms/tree/master/0279-perfect-squares) |
@@ -166,6 +167,7 @@ Happy learning and coding!
 | [0057-insert-interval](https://github.com/iSparshP/Algorithms/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/iSparshP/Algorithms/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/iSparshP/Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/iSparshP/Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iSparshP/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iSparshP/Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
