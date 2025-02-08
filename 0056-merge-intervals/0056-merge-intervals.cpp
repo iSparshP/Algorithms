@@ -1,19 +1,25 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& i) {
-        if(i.empty()){
+    vector<vector<int>> merge(vector<vector<int>>& intervals) {
+        if(intervals.empty()){
             return {};
         }
-        sort(i.begin(),i.end());
-        vector<vector<int>>res;
-        for(auto& in:i){
-            if(res.empty()|| res.back()[1]<in[0]){
-                res.push_back(in);
+        sort(intervals.begin(),intervals.end(), [](const vector<int>&a, const vector<int>&b)
+        {
+            return a[0]<b[0];
+        });
+        vector<vector<int>>merged;
+        merged.push_back(intervals[0]);
+        for(int i=1;i<intervals.size();i++){
+            vector<int>& lastMerged=merged.back();
+            vector<int>& curr=intervals[i];
+            if(curr[0]<=lastMerged[1]){
+                lastMerged[1]=max(lastMerged[1],curr[1]);
             }
             else{
-                res.back()[1]=max(res.back()[1],in[1]);
+                merged.push_back(curr);
             }
         }
-        return res;
+        return merged;
     }
 };
