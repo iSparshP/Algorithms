@@ -103,6 +103,7 @@ Happy learning and coding!
 | [1086-divisor-game](https://github.com/iSparshP/Algorithms/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iSparshP/Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/iSparshP/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iSparshP/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
@@ -215,6 +216,7 @@ Happy learning and coding!
 | [2292-counting-words-with-a-given-prefix](https://github.com/iSparshP/Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/iSparshP/Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2448-count-number-of-bad-pairs](https://github.com/iSparshP/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/iSparshP/Algorithms/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iSparshP/Algorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -314,6 +316,7 @@ Happy learning and coding!
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iSparshP/Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
+| [2448-count-number-of-bad-pairs](https://github.com/iSparshP/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/iSparshP/Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/iSparshP/Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -439,6 +442,7 @@ Happy learning and coding!
 | [1364-tuple-with-same-product](https://github.com/iSparshP/Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/iSparshP/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
+| [2448-count-number-of-bad-pairs](https://github.com/iSparshP/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iSparshP/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/iSparshP/Algorithms/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
