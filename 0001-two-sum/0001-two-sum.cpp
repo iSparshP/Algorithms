@@ -4,9 +4,9 @@ public:
         int n=nums.size();
         unordered_map<int,int>mp;
         for(int i=0;i<n;i++){
-            int com=target-nums[i];
-            if(mp.find(com)!=mp.end()){
-                return vector<int>{mp[com],i};
+            int comp = target-nums[i];
+            if(mp.find(comp)!=mp.end()){
+                return vector<int>{mp[comp],i};
             }
             mp[nums[i]]=i;
         }
