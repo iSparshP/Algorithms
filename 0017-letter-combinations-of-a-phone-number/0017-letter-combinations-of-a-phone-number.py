@@ -15,7 +15,7 @@ class Solution:
 
         def backtrack(idx, comb):
             if idx == len(digits):
-                res.append(comb[:])
+                res.append(comb)
                 return
             for letter in digit_to_letters[digits[idx]]:
                 backtrack(idx+1,comb+letter)
