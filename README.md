@@ -104,6 +104,7 @@ Happy learning and coding!
 | [1146-greatest-common-divisor-of-strings](https://github.com/iSparshP/Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [2448-count-number-of-bad-pairs](https://github.com/iSparshP/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
+| [2610-closest-prime-numbers-in-range](https://github.com/iSparshP/Algorithms/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/iSparshP/Algorithms/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iSparshP/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
@@ -409,6 +410,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
+| [2610-closest-prime-numbers-in-range](https://github.com/iSparshP/Algorithms/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sliding Window
 |  |
 | ------- |
