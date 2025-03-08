@@ -244,6 +244,7 @@ Happy learning and coding!
 | [0011-container-with-most-water](https://github.com/iSparshP/Algorithms/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iSparshP/Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/iSparshP/Algorithms/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/iSparshP/Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/iSparshP/Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0908-middle-of-the-linked-list) |
@@ -310,6 +311,7 @@ Happy learning and coding!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iSparshP/Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/iSparshP/Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/iSparshP/Algorithms/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/iSparshP/Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/iSparshP/Algorithms/tree/master/0217-contains-duplicate) |
@@ -471,6 +473,7 @@ Happy learning and coding!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iSparshP/Algorithms/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/iSparshP/Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/iSparshP/Algorithms/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/iSparshP/Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
