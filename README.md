@@ -379,6 +379,7 @@ Happy learning and coding!
 | [1161-project-employees-i](https://github.com/iSparshP/Algorithms/tree/master/1161-project-employees-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/iSparshP/Algorithms/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/iSparshP/Algorithms/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/iSparshP/Algorithms/tree/master/1773-percentage-of-users-attended-a-contest) |
 ## String
 |  |
 | ------- |
