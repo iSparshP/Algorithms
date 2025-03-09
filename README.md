@@ -377,6 +377,7 @@ Happy learning and coding!
 | [0601-human-traffic-of-stadium](https://github.com/iSparshP/Algorithms/tree/master/0601-human-traffic-of-stadium) |
 | [1153-product-sales-analysis-i](https://github.com/iSparshP/Algorithms/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/iSparshP/Algorithms/tree/master/1161-project-employees-i) |
+| [1338-queries-quality-and-percentage](https://github.com/iSparshP/Algorithms/tree/master/1338-queries-quality-and-percentage) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/iSparshP/Algorithms/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/iSparshP/Algorithms/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/iSparshP/Algorithms/tree/master/1773-percentage-of-users-attended-a-contest) |
