@@ -344,6 +344,7 @@ Happy learning and coding!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/iSparshP/Algorithms/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/iSparshP/Algorithms/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
@@ -628,6 +629,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/iSparshP/Algorithms/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/iSparshP/Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/iSparshP/Algorithms/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
