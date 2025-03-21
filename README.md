@@ -183,6 +183,7 @@ Happy learning and coding!
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/iSparshP/Algorithms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/iSparshP/Algorithms/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iSparshP/Algorithms/tree/master/0217-contains-duplicate) |
@@ -442,6 +443,7 @@ Happy learning and coding!
 | ------- |
 | [0048-rotate-image](https://github.com/iSparshP/Algorithms/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/iSparshP/Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/iSparshP/Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/iSparshP/Algorithms/tree/master/0854-making-a-large-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iSparshP/Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -503,6 +505,7 @@ Happy learning and coding!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iSparshP/Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iSparshP/Algorithms/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/iSparshP/Algorithms/tree/master/0279-perfect-squares) |
@@ -552,6 +555,7 @@ Happy learning and coding!
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iSparshP/Algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/iSparshP/Algorithms/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
@@ -583,6 +587,7 @@ Happy learning and coding!
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/iSparshP/Algorithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/iSparshP/Algorithms/tree/master/0684-redundant-connection) |
