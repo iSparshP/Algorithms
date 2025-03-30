@@ -174,6 +174,7 @@ Happy learning and coding!
 | [0057-insert-interval](https://github.com/iSparshP/Algorithms/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/iSparshP/Algorithms/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/iSparshP/Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/iSparshP/Algorithms/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/iSparshP/Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iSparshP/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
@@ -456,6 +457,7 @@ Happy learning and coding!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/iSparshP/Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/iSparshP/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/iSparshP/Algorithms/tree/master/0287-find-the-duplicate-number) |
@@ -481,6 +483,7 @@ Happy learning and coding!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iSparshP/Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/iSparshP/Algorithms/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/iSparshP/Algorithms/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/iSparshP/Algorithms/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/iSparshP/Algorithms/tree/master/0494-target-sum) |
 ## Linked List
 |  |
