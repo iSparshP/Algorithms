@@ -203,6 +203,7 @@ Happy learning and coding!
 | [0605-can-place-flowers](https://github.com/iSparshP/Algorithms/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0817-design-hashmap](https://github.com/iSparshP/Algorithms/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/iSparshP/Algorithms/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/iSparshP/Algorithms/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/iSparshP/Algorithms/tree/master/1025-minimum-cost-for-tickets) |
@@ -335,6 +336,7 @@ Happy learning and coding!
 | [0217-contains-duplicate](https://github.com/iSparshP/Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/iSparshP/Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0817-design-hashmap](https://github.com/iSparshP/Algorithms/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/iSparshP/Algorithms/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/iSparshP/Algorithms/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/iSparshP/Algorithms/tree/master/1319-unique-number-of-occurrences) |
@@ -358,6 +360,7 @@ Happy learning and coding!
 | [0146-lru-cache](https://github.com/iSparshP/Algorithms/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/iSparshP/Algorithms/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0817-design-hashmap](https://github.com/iSparshP/Algorithms/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/iSparshP/Algorithms/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
 ## Greedy
@@ -508,6 +511,7 @@ Happy learning and coding!
 | [0206-reverse-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/iSparshP/Algorithms/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -685,6 +689,7 @@ Happy learning and coding!
 ## Hash Function
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/iSparshP/Algorithms/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/iSparshP/Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Doubly-Linked List
 |  |
