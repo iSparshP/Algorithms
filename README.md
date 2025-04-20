@@ -100,6 +100,7 @@ Happy learning and coding!
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/iSparshP/Algorithms/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/iSparshP/Algorithms/tree/master/0371-sum-of-two-integers) |
+| [0797-rabbits-in-forest](https://github.com/iSparshP/Algorithms/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/iSparshP/Algorithms/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/iSparshP/Algorithms/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/iSparshP/Algorithms/tree/master/1236-n-th-tribonacci-number) |
@@ -203,6 +204,7 @@ Happy learning and coding!
 | [0605-can-place-flowers](https://github.com/iSparshP/Algorithms/tree/master/0605-can-place-flowers) |
 | [0747-min-cost-climbing-stairs](https://github.com/iSparshP/Algorithms/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/iSparshP/Algorithms/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/iSparshP/Algorithms/tree/master/0817-design-hashmap) |
 | [0854-making-a-large-island](https://github.com/iSparshP/Algorithms/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/iSparshP/Algorithms/tree/master/0952-word-subsets) |
@@ -337,6 +339,7 @@ Happy learning and coding!
 | [0217-contains-duplicate](https://github.com/iSparshP/Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/iSparshP/Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [0797-rabbits-in-forest](https://github.com/iSparshP/Algorithms/tree/master/0797-rabbits-in-forest) |
 | [0817-design-hashmap](https://github.com/iSparshP/Algorithms/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/iSparshP/Algorithms/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/iSparshP/Algorithms/tree/master/1039-find-the-town-judge) |
@@ -375,6 +378,7 @@ Happy learning and coding!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iSparshP/Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/iSparshP/Algorithms/tree/master/0605-can-place-flowers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/iSparshP/Algorithms/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/iSparshP/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/iSparshP/Algorithms/tree/master/1917-maximum-average-pass-ratio) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/iSparshP/Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
