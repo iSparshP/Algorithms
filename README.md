@@ -118,6 +118,7 @@ Happy learning and coding!
 | [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/iSparshP/Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iSparshP/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/iSparshP/Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/iSparshP/Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/iSparshP/Algorithms/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/iSparshP/Algorithms/tree/master/0279-perfect-squares) |
@@ -183,6 +184,7 @@ Happy learning and coding!
 | [0118-pascals-triangle](https://github.com/iSparshP/Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iSparshP/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/iSparshP/Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/iSparshP/Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/iSparshP/Algorithms/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
