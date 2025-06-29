@@ -376,6 +376,7 @@ Happy learning and coding!
 | [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0817-design-hashmap](https://github.com/iSparshP/Algorithms/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/iSparshP/Algorithms/tree/master/0969-number-of-recent-calls) |
+| [1708-design-parking-system](https://github.com/iSparshP/Algorithms/tree/master/1708-design-parking-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/iSparshP/Algorithms/tree/master/2413-smallest-number-in-infinite-set) |
 ## Greedy
 |  |
@@ -398,6 +399,7 @@ Happy learning and coding!
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/iSparshP/Algorithms/tree/master/1708-design-parking-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/iSparshP/Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/iSparshP/Algorithms/tree/master/2551-apply-operations-to-an-array) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/iSparshP/Algorithms/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -502,6 +504,7 @@ Happy learning and coding!
 | [0347-top-k-frequent-elements](https://github.com/iSparshP/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [1364-tuple-with-same-product](https://github.com/iSparshP/Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/iSparshP/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
+| [1708-design-parking-system](https://github.com/iSparshP/Algorithms/tree/master/1708-design-parking-system) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iSparshP/Algorithms/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/iSparshP/Algorithms/tree/master/2448-count-number-of-bad-pairs) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/iSparshP/Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
