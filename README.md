@@ -201,6 +201,7 @@ Happy learning and coding!
 | [0239-sliding-window-maximum](https://github.com/iSparshP/Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/iSparshP/Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/iSparshP/Algorithms/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/iSparshP/Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/iSparshP/Algorithms/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/iSparshP/Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
@@ -375,6 +376,7 @@ Happy learning and coding!
 | [0146-lru-cache](https://github.com/iSparshP/Algorithms/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/iSparshP/Algorithms/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0303-range-sum-query-immutable](https://github.com/iSparshP/Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [0817-design-hashmap](https://github.com/iSparshP/Algorithms/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/iSparshP/Algorithms/tree/master/0969-number-of-recent-calls) |
 | [1708-design-parking-system](https://github.com/iSparshP/Algorithms/tree/master/1708-design-parking-system) |
@@ -667,6 +669,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/iSparshP/Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/iSparshP/Algorithms/tree/master/0303-range-sum-query-immutable) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/iSparshP/Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iSparshP/Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/iSparshP/Algorithms/tree/master/2145-grid-game) |
