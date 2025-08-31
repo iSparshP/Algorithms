@@ -534,6 +534,7 @@ Happy learning and coding!
 | [0021-merge-two-sorted-lists](https://github.com/iSparshP/Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/iSparshP/Algorithms/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/iSparshP/Algorithms/tree/master/0061-rotate-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/iSparshP/Algorithms/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/iSparshP/Algorithms/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/iSparshP/Algorithms/tree/master/0146-lru-cache) |
@@ -591,6 +592,7 @@ Happy learning and coding!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/iSparshP/Algorithms/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -603,6 +605,7 @@ Happy learning and coding!
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/iSparshP/Algorithms/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -610,6 +613,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/iSparshP/Algorithms/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/iSparshP/Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iSparshP/Algorithms/tree/master/0207-course-schedule) |
@@ -694,6 +698,7 @@ Happy learning and coding!
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/iSparshP/Algorithms/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/iSparshP/Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0234-palindrome-linked-list) |
