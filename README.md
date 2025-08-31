@@ -555,6 +555,7 @@ Happy learning and coding!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iSparshP/Algorithms/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/iSparshP/Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iSparshP/Algorithms/tree/master/0207-course-schedule) |
@@ -589,6 +590,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/iSparshP/Algorithms/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -600,12 +602,14 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/iSparshP/Algorithms/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/iSparshP/Algorithms/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iSparshP/Algorithms/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/iSparshP/Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/iSparshP/Algorithms/tree/master/0207-course-schedule) |
