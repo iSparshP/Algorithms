@@ -268,6 +268,7 @@ Happy learning and coding!
 | [3429-special-array-i](https://github.com/iSparshP/Algorithms/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/iSparshP/Algorithms/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iSparshP/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/iSparshP/Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -417,6 +418,7 @@ Happy learning and coding!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/iSparshP/Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/iSparshP/Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/iSparshP/Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/iSparshP/Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Database
 |  |
 | ------- |
@@ -702,6 +704,7 @@ Happy learning and coding!
 | [2465-shifting-letters-ii](https://github.com/iSparshP/Algorithms/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/iSparshP/Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/iSparshP/Algorithms/tree/master/3427-special-array-ii) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/iSparshP/Algorithms/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Stack
 |  |
 | ------- |
