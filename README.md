@@ -606,6 +606,7 @@ Happy learning and coding!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iSparshP/Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iSparshP/Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Search Tree
@@ -621,6 +622,7 @@ Happy learning and coding!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iSparshP/Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/iSparshP/Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/iSparshP/Algorithms/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iSparshP/Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iSparshP/Algorithms/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/iSparshP/Algorithms/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -638,6 +640,7 @@ Happy learning and coding!
 | [0684-redundant-connection](https://github.com/iSparshP/Algorithms/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/iSparshP/Algorithms/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/iSparshP/Algorithms/tree/master/0871-keys-and-rooms) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/iSparshP/Algorithms/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1558-course-schedule-iv](https://github.com/iSparshP/Algorithms/tree/master/1558-course-schedule-iv) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iSparshP/Algorithms/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iSparshP/Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
