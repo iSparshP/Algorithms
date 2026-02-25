@@ -228,6 +228,7 @@ Happy learning and coding!
 | [1039-find-the-town-judge](https://github.com/iSparshP/Algorithms/tree/master/1039-find-the-town-judge) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/iSparshP/Algorithms/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1319-unique-number-of-occurrences](https://github.com/iSparshP/Algorithms/tree/master/1319-unique-number-of-occurrences) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iSparshP/Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/iSparshP/Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/iSparshP/Algorithms/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iSparshP/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -305,6 +306,7 @@ Happy learning and coding!
 | [0435-non-overlapping-intervals](https://github.com/iSparshP/Algorithms/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/iSparshP/Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iSparshP/Algorithms/tree/master/0780-max-chunks-to-make-sorted) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iSparshP/Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iSparshP/Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/iSparshP/Algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/iSparshP/Algorithms/tree/master/2636-maximum-subsequence-score) |
@@ -511,6 +513,7 @@ Happy learning and coding!
 | [0191-number-of-1-bits](https://github.com/iSparshP/Algorithms/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/iSparshP/Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/iSparshP/Algorithms/tree/master/0371-sum-of-two-integers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iSparshP/Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iSparshP/Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/iSparshP/Algorithms/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iSparshP/Algorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -521,6 +524,7 @@ Happy learning and coding!
 | ------- |
 | [0169-majority-element](https://github.com/iSparshP/Algorithms/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/iSparshP/Algorithms/tree/master/0347-top-k-frequent-elements) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/iSparshP/Algorithms/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/iSparshP/Algorithms/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/iSparshP/Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1708-design-parking-system](https://github.com/iSparshP/Algorithms/tree/master/1708-design-parking-system) |
