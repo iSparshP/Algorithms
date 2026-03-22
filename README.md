@@ -201,6 +201,7 @@ Happy learning and coding!
 | [0198-house-robber](https://github.com/iSparshP/Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/iSparshP/Algorithms/tree/master/0204-count-primes) |
+| [0212-word-search-ii](https://github.com/iSparshP/Algorithms/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/iSparshP/Algorithms/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/iSparshP/Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/iSparshP/Algorithms/tree/master/0217-contains-duplicate) |
@@ -445,6 +446,7 @@ Happy learning and coding!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iSparshP/Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0179-largest-number](https://github.com/iSparshP/Algorithms/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/iSparshP/Algorithms/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/iSparshP/Algorithms/tree/master/0242-valid-anagram) |
 | [0399-evaluate-division](https://github.com/iSparshP/Algorithms/tree/master/0399-evaluate-division) |
 | [0952-word-subsets](https://github.com/iSparshP/Algorithms/tree/master/0952-word-subsets) |
@@ -499,6 +501,7 @@ Happy learning and coding!
 | [0073-set-matrix-zeroes](https://github.com/iSparshP/Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/iSparshP/Algorithms/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/iSparshP/Algorithms/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/iSparshP/Algorithms/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/iSparshP/Algorithms/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/iSparshP/Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/iSparshP/Algorithms/tree/master/0854-making-a-large-island) |
@@ -544,6 +547,7 @@ Happy learning and coding!
 | [0046-permutations](https://github.com/iSparshP/Algorithms/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/iSparshP/Algorithms/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/iSparshP/Algorithms/tree/master/0078-subsets) |
+| [0212-word-search-ii](https://github.com/iSparshP/Algorithms/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/iSparshP/Algorithms/tree/master/0494-target-sum) |
 ## Linked List
 |  |
@@ -686,6 +690,7 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/iSparshP/Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/iSparshP/Algorithms/tree/master/0212-word-search-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/iSparshP/Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Topological Sort
 |  |
