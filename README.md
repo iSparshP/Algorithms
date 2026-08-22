@@ -189,6 +189,7 @@ Happy learning and coding!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/iSparshP/Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/iSparshP/Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iSparshP/Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/iSparshP/Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/iSparshP/Algorithms/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/iSparshP/Algorithms/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/iSparshP/Algorithms/tree/master/0137-single-number-ii) |
@@ -355,6 +356,7 @@ Happy learning and coding!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/iSparshP/Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/iSparshP/Algorithms/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/iSparshP/Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/iSparshP/Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/iSparshP/Algorithms/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/iSparshP/Algorithms/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iSparshP/Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
@@ -778,4 +780,8 @@ Happy learning and coding!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/iSparshP/Algorithms/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/iSparshP/Algorithms/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
